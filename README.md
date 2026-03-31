@@ -80,4 +80,6 @@ Teacher
 
 ## 🎥 Mock Interview Video
 
-👉 [Click here to watch](PASTE VIDEO LINK HERE)
+https://youtube.com/shorts/n06HcGgNP0c
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" 
+title="Mock Interview Video" frameborder="0" allowfullscreen></iframe>
